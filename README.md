@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Terry-GX, a first-year student for my Master Degree in HIT
 
-- 🌱 C++/Golang/JavaScript/Python ...
+- 🌱 C++/JavaScript/Python ...
 
 
 - 📫 Here is my E-mail: gaoxuanhit@qq.com
