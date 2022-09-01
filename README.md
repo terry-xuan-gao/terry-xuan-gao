@@ -1,9 +1,8 @@
-# Welcome 🎊
+## Welcome 🎊
 
 - 👋 Hi, I’m @Terry-GX, a first-year student for my Master Degree in HIT
 
-- 🌱 C++/JavaScript/Python ...
-
+- 🌱 Interested in 3d-Reconstruction, Computer graphics, and many other stuffs.
 
 - 📫 Here is my E-mail: gaoxuanhit@qq.com
 
