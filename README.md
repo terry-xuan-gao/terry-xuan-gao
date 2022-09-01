@@ -1,6 +1,6 @@
 ## Welcome 🎊
 
-- 👋 Hi, I’m @Terry-GX, a first-year student for my Master Degree in HIT
+- 👋 Hi, I’m @terry-xuan-gao, a first-year student for my Master Degree in HIT
 
 - 🌱 Interested in 3d-Reconstruction, Computer graphics, and many other stuffs.
 
