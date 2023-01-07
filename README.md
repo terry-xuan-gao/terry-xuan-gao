@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Xuan Gao, a first-year student for my Master Degree in HIT.
 
 - 🔭 Have two internships in software development:
+  -   **2022.12 - 2023.3** in [**Momenta**](https://www.momenta.cn/en/) for Data Production Line development;  
   -   **2022.06 - 2022.9** in [**Hirain**](http://en.hirain.com/) for 3D reconstruction system development;
-  -   **2022.12 - 2023.3** in [**Momenta**](https://www.momenta.cn/en/) for Data Production Line development;
 
 - 🌱 Interested in 3d-Reconstruction, Computer graphics, and many other stuffs.
 
