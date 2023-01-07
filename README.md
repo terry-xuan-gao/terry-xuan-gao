@@ -1,6 +1,6 @@
 ## Welcome 🎊
 
-- 👋 Hi, I’m Xuan Gao, a first-year student for my Master Degree in HIT.
+- 👋 Hi, I’m Xuan Gao, a first-year Master student at HIT.
 
 - 🔭 Have two internships in software development:
   -   **2022.12 - 2023.3** in [**Momenta**](https://www.momenta.cn/en/) for Data Production Line development;  
