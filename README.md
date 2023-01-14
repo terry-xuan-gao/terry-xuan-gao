@@ -1,6 +1,6 @@
 ## <p align="center">About me</p>
 
--  Hi, I’m Xuan Gao, a first-year Master student at HIT.
+-  Hi, I’m Xuan Gao, a first-year Master student at [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453).
 
 
 -  I have two internships in software development:
