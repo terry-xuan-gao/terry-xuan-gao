@@ -1,7 +1,6 @@
 ## <p align="center">About me</p>
 
--  Hi, I’m Xuan Gao, a first-year Master student at [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453).
-
+-  Hi, here is a [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453) undergraduate (about to graduate in 2025)
 
 -  I have two internships in software development:
     -   [**Momenta**](https://www.momenta.cn/en/) | Software Engineer Intern | 12/2022 - 05/2023, Suzhou
