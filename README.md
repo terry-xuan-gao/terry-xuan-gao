@@ -1,6 +1,6 @@
 ## <p align="center">About me</p>
 
-- A student from [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453) (about to graduate in 2025)
+- Master student at [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453) (about to graduate in 2025)
 
 - Have two internships in software development:
     -   [**Momenta**](https://www.momenta.cn/en/) | Software Engineer Intern | 12/2022 - 03/2023, Suzhou
