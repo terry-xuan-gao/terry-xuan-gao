@@ -1,12 +1,12 @@
 ## <p align="center">About me</p>
 
-- 🌱 I'm a master student at [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453) (about to graduate in 2025)
+- 🌱 I am studying for a master's degree at [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453) (about to graduate in 2025)
 
 - 💻 I have two internships in software development:
     -   [**Momenta**](https://www.momenta.cn/en/) | Software Engineer Intern | 12/2022 - 03/2023, Suzhou
-        -   working on APA Event Product Line development
+        -   working on Event Product Line development
     -   [**Hirain**](http://en.hirain.com/) | Software Engineer Intern | 06/2022 - 09/2022, Beijing
-        -   working on 3D reconstruction system development
+        -   working on 3D Reconstruction System development
 
 
 - 📫 Here is my E-mail: gaoxuanhit@qq.com
