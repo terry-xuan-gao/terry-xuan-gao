@@ -2,7 +2,9 @@
 
 - 🌱 I am studying for a master's degree at [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453) (about to graduate in 2025)
 
-- 💻 I have two internships in software development:
+- 💻 I have three internships in software development:
+    -   [**QCraft**](https://www.qcraft.ai/) | Back-end development intern | 05/2023 - 06/2023, Beijing
+        -   working on Data annotation management platform
     -   [**Momenta**](https://www.momenta.cn/en/) | Software Engineer Intern | 12/2022 - 03/2023, Suzhou
         -   working on Event Product Line development
     -   [**Hirain**](http://en.hirain.com/) | Software Engineer Intern | 06/2022 - 09/2022, Beijing
