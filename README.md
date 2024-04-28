@@ -1,19 +1,23 @@
 ## <p align="center">About me</p>
 
-- 🌱 I am a postgraduate student at [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453) (about to graduate in 2025)
+- 👋 Hi, I am a postgraduate student at [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453) (about to graduate in 2025).
 
-- 💻 I have three internships in software development:
+- ⚡ I’m good at C++, Python, Go and TypeScript.
+
+- 🌱 ***I'm looking for a long-term online/remote SDE intern opportunity.***
+
+- 💻 **My past internships:**
     -   [**QCraft**](https://www.qcraft.ai/) | Back-End Development Intern | 05/2023 - 06/2023, Beijing
-        -   working on data annotation management platform
-    -   [**Momenta**](https://www.momenta.cn/en/) | Software Engineer Intern | 12/2022 - 03/2023, Suzhou
-        -   working on event product line
-    -   [**Hirain**](http://en.hirain.com/) | Software Engineer Intern | 06/2022 - 09/2022, Beijing
-        -   working on 3D reconstruction system 
+       <!-- -   working on data annotation management platform -->
+    -   [**Momenta**](https://www.momenta.cn/en/) | System R&D Intern | 12/2022 - 03/2023, Suzhou
+       <!-- -   working on event product line -->
+    -   [**Hirain**](http://en.hirain.com/) | Software Development Intern | 06/2022 - 09/2022, Beijing
+       <!-- -   working on 3D reconstruction system -->
 
 
 - 📫 Here is my E-mail: gaoxuanhit@qq.com
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=terry-xuan-gao&theme=github)
 
 
 <!---
