@@ -1,18 +1,18 @@
 ## <p align="center">About me</p>
 
-- 👋 Hi, I am a postgraduate student at [**Harbin Institute of Technology**](http://studyathit.hit.edu.cn/post/index/453) (about to graduate in 2025).
+- 👋 Hi, I am a postgraduate student at [**Harbin Institute of Technology**](http://en.hit.edu.cn/) (about to graduate in 2025).
 
-- ⚡ I’m good at C++, Python, Go and TypeScript.
+- ⚡ I’m good at C++, Python and Go.
 
 - 🌱 ***I'm looking for a long-term online/remote SDE intern opportunity.***
 
 - 💻 **My past internships:**
-    -   [**QCraft**](https://www.qcraft.ai/) | Back-End Development Intern | 05/2023 - 06/2023, Beijing
-       <!-- -   working on data annotation management platform -->
-    -   [**Momenta**](https://www.momenta.cn/en/) | System R&D Intern | 12/2022 - 03/2023, Suzhou
-       <!-- -   working on event product line -->
-    -   [**Hirain**](http://en.hirain.com/) | Software Development Intern | 06/2022 - 09/2022, Beijing
-       <!-- -   working on 3D reconstruction system -->
+   | Company | Position | Technology | Duration & Base |
+   | :----: | :----: | :----: | :----: |
+   [**QCraft**](https://www.qcraft.ai/) | Back-End Development Intern | Go, Python, gRPC, PostgreSQL | 05/2023 - 06/2023, Beijing
+   [**Momenta**](https://www.momenta.cn/en/) | System R&D Intern | C++, Python, Kafka, MongoDB | 12/2022 - 03/2023, Suzhou
+   [**Hirain**](http://en.hirain.com/) | Software Development Intern | C++, OpenCV, PCL | 06/2022 - 09/2022, Beijing
+       
 
 
 - 📫 Here is my E-mail: gaoxuanhit@qq.com
