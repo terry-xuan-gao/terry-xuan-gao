@@ -11,7 +11,6 @@
    | :----: | :----: | :----: | :----: | :----: |
    [**QCraft**](https://www.qcraft.ai/) | Back-End Development Intern | Go, Python, gRPC, PostgreSQL | 05/2023 - 06/2023 | Beijing
    [**Momenta**](https://www.momenta.cn/en/) | System R&D Intern | C++, Python, Kafka, MongoDB | 12/2022 - 03/2023 | Suzhou
-   [**Hirain**](http://en.hirain.com/) | Software Development Intern | C++, OpenCV, PCL | 06/2022 - 09/2022 | Beijing
        
 
 
