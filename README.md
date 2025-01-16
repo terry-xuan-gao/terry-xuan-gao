@@ -1,25 +1,23 @@
 ## <p align="center">About me</p>
 
-- 👋 Hi, I am a postgraduate student at [**Harbin Institute of Technology**](http://en.hit.edu.cn/) (about to graduate in 2025).
-
-- ⚡ I’m good at C++, Python and Go.
-
-- 🌱 ***I'm looking for a long-term online/remote SDE intern opportunity.***
+- 👋 Hi, I'm Terry.
 
 - 💻 **My past internships:**
-   | Company | Position | Technology | Duration | Base |
-   | :----: | :----: | :----: | :----: | :----: |
-   [**QCraft**](https://www.qcraft.ai/) | Back-End Development Intern | Go, Python, gRPC, PostgreSQL | 05/2023 - 06/2023 | Beijing
-   [**Momenta**](https://www.momenta.cn/en/) | System R&D Intern | C++, Python, Kafka, MongoDB | 12/2022 - 03/2023 | Suzhou
+
+   - [**Pinduoduo**](https://www.temu.com/) | Back-End Intern | 06/2024 - 09/2024 | Shanghai
+
+   - [**QCraft**](https://www.qcraft.ai/) | Back-End Intern | 05/2023 - 06/2023 | Beijing
+   
+   - [**Momenta**](https://www.momenta.cn/en/) | System R&D Intern | 12/2022 - 03/2023 | Suzhou
        
 
 
 - 📫 Here is my E-mail: gaoxuanhit@qq.com
-
+<!---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=terry-xuan-gao&theme=github)
 
 
-<!---
+
 👋🔭🌱📫🎊
 ### 💞️ Thank for your reading, hope you have a nice day✨✨✨
 Terry-GX/Terry-GX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
