@@ -1,6 +1,10 @@
 ## <p align="center">About me</p>
 
 - 👋 Hi, I'm Terry.
+- 🎓 Hope to graduate smoothly, expected in June 2025.
+- 💻 Going to join [Temu](https://www.temu.com/) as a back-end engineer, expected in July 2025.
+
+<!---
 
 - 💻 **My past internships:**
 
